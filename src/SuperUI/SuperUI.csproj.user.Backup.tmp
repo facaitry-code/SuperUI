@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Controls\SuButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuCheckedListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuControlBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuLoadingOverlay.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuNumericUpDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuOptionBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuPagination.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuSideMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuSwitch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SuTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\SuBorderlessForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SuTitleBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
